@@ -18,7 +18,7 @@ img {
 h2 {
   margin: auto;
   max-width: 800px;
-  z-index: 1;
+  z-index: 2;
 
   cursor: pointer;
   text-align: center;
